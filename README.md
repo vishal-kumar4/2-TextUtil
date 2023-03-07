@@ -1,5 +1,6 @@
 #About Aplication
-This is a beautiful and attractive  react application you can alter you text like converting text to uppercase , lower case trim the text get random text so that can be used as dummy data which can come in handy at times and this can tell you the amount of time require to read the given text with dark mode enabled 
+
+#This is a beautiful and attractive  react application you can alter you text like converting text to uppercase , lower case trim the text get random text so that can be used as dummy data which can come in handy at times and this can tell you the amount of time require to read the given text with dark mode enabled 
 
 # Getting Started with Create React App
 
