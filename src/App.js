@@ -1,7 +1,6 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
-import About from './components/About';
 import React, { useState } from 'react';
 import Alert from './components/Alert';
 import {
@@ -45,7 +44,6 @@ function App() {
       <div className="container my-3">
       <Routes>
         <Route path="/" element={<TextForm showAlert={showAlert} heading="Try TextUtils - word counter, character counter, remove extra spaces" mode={mode}/>}>
-        <Route path="/about" element={<About mode={mode} />} />
         </Route>
       </Routes>
       </div>
